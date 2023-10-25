@@ -1,0 +1,1 @@
+Blog about Window and Document object

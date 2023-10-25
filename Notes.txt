@@ -1,0 +1,13 @@
+Windows
+*Window is a Global object of the browser,it can be treated as root of the documentr object model
+*The window is the first thing that getsloaded in the browser
+*We can access window by Window.
+*there are many properties like innerHeight,innerLength.name
+
+document
+*Document will be loaded into the browser
+*Document actually loaded into the objects
+*Document can be access by Document.
+*Document have properties like tittle,URL,Cokies
+*to access a property for the window it is window.property, if it is document it is window.document.
+*property which is also available in short as document.property.
